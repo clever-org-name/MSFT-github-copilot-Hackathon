@@ -50,9 +50,14 @@ Morning session is for a brief product recap and developer hands-on exercises an
 - **BREAK** (15min)
 
 **Afternoon Agenda (1hr):**
-Morning session is for a brief product recap and developer hands-on exercises and engagement with approximatly 40 attendees.
+Afternoon session is a wrap of best practices and Q&A, finishing with awards and swag.
 
 - Copilot Prompt Crafting Best Practices, Tips & Tricks, and Q&A (50min) (NEED LINK TO DECK)
+    - If additional time available
+        - Demo Copilot Workspace
+        - Demo Pull Request
+        - Demo @github
+        - Ask somone to work on a realworld problem (ie: document, unit test, bug, ect.) 
 
 - Judging and Winner Announcement (10 minutes)
     - Judges deliberate and select winners based on creativity, implementation, and use of GitHub Copilot.
@@ -72,9 +77,9 @@ Morning session is for a brief product recap and developer hands-on exercises an
 - [ ] Participants need a GitHub Account with a Copilot license and a GitHub Copilot compatible IDE installed
 - [ ] EMU customers should clone the [Hackathon repo](https://github.com/aldo-lares/poi-github-copilot) in the Org of their choice 
 - [ ] A specific Organization should be created to host the hackathon repos 
-- [ ] GitHub speakers need access to the repo of each Team (to be able to judge it) via:
-    - [ ] Temporary guest access to the EMU account Org as guest collaborator 
-    - [ ] Or through the laptop of the customer's hosts 
+- [ ] GitHub speakers will review each Team's work (to be able to judge it) via walking around a reviewing live:
+    - [ ] Check for comment? Make sure they are aware Copilot can help with that.  
+    - [ ] Check for unit testing? Make sure they are aware Copilot can help with that.
 - [ ] CSM or CSAs need to order Swag and deliver it on time to the customer's office
 
 **Jury & Prizes**
