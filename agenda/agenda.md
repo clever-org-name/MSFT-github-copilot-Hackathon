@@ -2,14 +2,14 @@
 
 ## Agenda and format
 
-The Hackathon is scheduled from 9:00am - 14:00pm CDMX. It will be a total of 5 hours with multible breaks, NO LUNCH.   
+The Hackathon is scheduled from 9:00am - 14:00pm CDMX. It will be a total of 5 hours with multiple breaks, NO LUNCH.   
 
 
 📓 Proposed agenda (please feel free to adapt with the customer if needed):
 
 
 **Morning Agenda (3hr45min):**
-Morning session is for a brief product recap and developer hands-on exercises and engagement with approximatly 40 attendees.
+Morning session is for a brief product recap and developer hands-on exercises and engagement with approximately 40 attendees.
 
 - Introduction to GitHub Copilot (30min) - Intro deck (NEED LINK TO DECK)
 - [Hackathon Exercises](https://github.com/clever-org-name/MSFT-github-copilot-Hackathon/blob/main/README.md) (3hr15min)
@@ -21,7 +21,7 @@ Morning session is for a brief product recap and developer hands-on exercises an
         - [ ] TACOCAR
         - [ ] Recap: What did you learn? What prompt was useful for you? Who would like to walk us through your exercise? 
 
-    - Series 2: API Development and Integration (45min): Individiual exercise
+    - Series 2: API Development and Integration (45min): Individual exercise
         - [ ] Give me more
         - [ ] Take my tribute
         - [ ] Get Outta Here
@@ -57,7 +57,7 @@ Afternoon session is a wrap of best practices and Q&A, finishing with awards and
         - Demo Copilot Workspace
         - Demo Pull Request
         - Demo @github
-        - Ask somone to work on a realworld problem (ie: document, unit test, bug, ect.) 
+        - Ask someone to work on a real-world problem (ie: document, unit test, bug, ect.) 
 
 - Judging and Winner Announcement (10 minutes)
     - Judges deliberate and select winners based on creativity, implementation, and use of GitHub Copilot.
