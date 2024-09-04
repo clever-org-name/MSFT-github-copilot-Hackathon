@@ -11,7 +11,7 @@ The Hackathon is scheduled from 9:00am - 14:00pm CDMX. It will be a total of 5 h
 **Morning Agenda (3hr45min):**
 Morning session is for a brief product recap and developer hands-on exercises and engagement with approximately 40 attendees.
 
-- Introduction to GitHub Copilot (30min) - Intro deck (NEED LINK TO DECK)
+- Introduction to GitHub Copilot (30min) - [Intro deck](https://microsoft-my.sharepoint.com/:p:/p/samuelqassom/Ea61OySYajxFpCf-zO5EinsBbh6vL7dcdtnOOeqa4RMa-w?e=2GQkD6)
 - [Hackathon Exercises](https://github.com/clever-org-name/MSFT-github-copilot-Hackathon/blob/main/README.md) (3hr15min)
     - Series 1: Foundational (45min): Individual exercise
         - [ ] Say my Name
@@ -19,7 +19,8 @@ Morning session is for a brief product recap and developer hands-on exercises an
         - [ ] The Factorial!
         - [ ] TACOCAT
         - [ ] TACOCAR
-        - [ ] Recap: What did you learn? What prompt was useful for you? Who would like to walk us through your exercise? 
+        - [ ] Recap: What did you learn? What prompt was useful for you? Who would like to walk us through your exercise?
+        - [ ] Time permitting, review prompt crafting best practices. 
 
     - Series 2: API Development and Integration (45min): Individual exercise
         - [ ] Give me more
@@ -28,6 +29,7 @@ Morning session is for a brief product recap and developer hands-on exercises an
         - [ ] Rest in API(ce)
         - [ ] List'o'Cat
         - [ ] Recap: What did you learn? What prompt was useful for you? Who would like to walk us through your exercise?
+        - [ ] Time permitting, review prompt crafting best practices. 
 
 - **BREAK** (15min)
 
@@ -38,6 +40,7 @@ Morning session is for a brief product recap and developer hands-on exercises an
         - [ ] Key Vault
         - [ ] Reduced Pawprint
         - [ ] Recap: What did you learn? What prompt was useful for you? Who would like to walk us through your exercise?
+        - [ ] Time permitting, review prompt crafting best practices. 
 
     - Series 4: Code Quality and Best Practices (45min): Team exercise
         - [ ] Explain this
@@ -46,14 +49,15 @@ Morning session is for a brief product recap and developer hands-on exercises an
         - [ ] Better Code
         - [ ] Catinder
         - [ ] Recap: What did you learn? What prompt was useful for you? Who would like to walk us through your exercise?
+        - [ ] Time permitting, review prompt crafting best practices. 
 
 - **BREAK** (15min)
 
 **Afternoon Agenda (1hr):**
 Afternoon session is a wrap of best practices and Q&A, finishing with awards and swag.
 
-- Copilot Prompt Crafting Best Practices, Tips & Tricks, and Q&A (50min) (NEED LINK TO DECK)
-    - If additional time available
+- Copilot Prompt Crafting Best Practices, Tips & Tricks, and Q&A (50min)
+    - Based on customer feedback, we will lead with "A day in the life of the Developer". If additional time available:
         - Demo Copilot Workspace
         - Demo Pull Request
         - Demo @github
