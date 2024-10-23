@@ -13,7 +13,9 @@ Morning session is for a brief product recap and developer hands-on exercises an
 
 - Introduction to GitHub Copilot (30min) - [Intro deck](https://microsoft-my.sharepoint.com/:p:/p/samuelqassom/Ea61OySYajxFpCf-zO5EinsBbh6vL7dcdtnOOeqa4RMa-w?e=2GQkD6)
 - [Hackathon Exercises](https://github.com/clever-org-name/MSFT-github-copilot-Hackathon/blob/main/README.md)
-    - Series 1: Foundational (1hr): Individual exercise
+- [Copilot and beyond!](https://microsoft-my.sharepoint.com/:p:/p/rsarmiento/ESeWhvAJeB5Ho1StpLz_OHAB_naq_QJ9lfvIktiehQ9qTQ?e=Na2fVa)
+- [Mentimeter Survey](https://www.mentimeter.com/app/presentation/n/alsh2y9a7hxccd9qswaou8k6vgr2q76s/edit?question=z9im78vc5kn6)
+    - Series 1: Foundational (1hr): Individual exercise 
         - [ ] Say my Name
         - [ ] Fizz Buzz
         - [ ] The Factorial!
@@ -36,8 +38,9 @@ Morning session is for a brief product recap and developer hands-on exercises an
 **Afternoon Agenda (2hr):**
 Afternoon session is a wrap of best practices and Q&A, finishing with awards and swag.
 
-- Copilot Prompt Crafting Best Practices, Tips & Tricks, and Q&A (1hr30min)
+- Copilot and more, Prompt Crafting Best Practices, Tips & Tricks, and Q&A (1hr30min)
     - Based on customer feedback, we will lead with "A day in the life of the Developer". If additional time available:
+        - What else can you do with Copilot? (PPT Presentation)
         - Demo Copilot Workspace
         - Demo Pull Request
         - Demo @github
